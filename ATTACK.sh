@@ -12,7 +12,7 @@ date
 echo
 #!/bin/sh
 
-figlet -f slant "Trojan Win32"| lolcat
+figlet -f slant "Trojan Win32"
 sleep 0.1
 echo '\033[34;1m'==========================================
 sleep 0.1
