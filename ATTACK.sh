@@ -29,7 +29,7 @@ echo '\033[34;1m'= AUTHOR : '\033[33;1m'MR.R0L4           '\033[34;1m'=
 sleep 0.1
 echo '\033[34;1m'= Support : '\033[33;1m'MR.3MB3P         '\033[34;1m'=
 sleep 0.1
-echo '\033[34;1m'= TEAM : '\033[33;1m'O.H.T.C [ONE HAT TEAM CYBER]   '\033[34;1m'=
+echo '\033[34;1m'= TEAM : '\033[33;1m'O.H.C.T.            '\033[34;1m'=
 sleep 0.1
 echo $green"'=========================================="
 
